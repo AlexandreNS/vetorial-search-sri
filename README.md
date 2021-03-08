@@ -73,9 +73,9 @@ Para a função de busca e calculo da similaridade:
 
 ## Exemplo de Execução
 
-Após a computação dos documentos do corpus, o sistema permite a realização do download de dois arquivos em `.json`:  [corpus-index.json](https://github.com/AlexandreNS/vetorial-search-sri/blob/main/backend/src/resources/data/corpus-index/80fa9a7d-ee4d-4f38-b24a-f5a11465473c-CRPC-sub-corpus-oral-espontEneo.json?raw=true) e [list-docs.json](https://github.com/AlexandreNS/vetorial-search-sri/blob/main/backend/src/resources/data/corpus/80fa9a7d-ee4d-4f38-b24a-f5a11465473c-CRPC-sub-corpus-oral-espontEneo.json?raw=true).
+Após a computação dos documentos do corpus, o sistema permite a realização do download de três arquivos em `.json`:  [corpus-index.json](https://github.com/AlexandreNS/vetorial-search-sri/blob/main/backend/src/resources/data/corpus-index/80fa9a7d-ee4d-4f38-b24a-f5a11465473c-CRPC-sub-corpus-oral-espontEneo.json?raw=true), [list-docs.json](https://github.com/AlexandreNS/vetorial-search-sri/blob/main/backend/src/resources/data/corpus/80fa9a7d-ee4d-4f38-b24a-f5a11465473c-CRPC-sub-corpus-oral-espontEneo.json?raw=true) e [corpus-index-vetorial.json](https://github.com/AlexandreNS/vetorial-search-sri/blob/main/backend/src/resources/data/corpus-index-vetorial/80fa9a7d-ee4d-4f38-b24a-f5a11465473c-CRPC-sub-corpus-oral-espontEneo.json?raw=true).
 
-Para o corpus [CRPC sub-corpus oral espontÉneo.zip](https://github.com/AlexandreNS/term-frequency-sri/blob/main/CRPC%20sub-corpus%20oral%20espont%C3%89neo.zip?raw=true) foi possível realizar a busca `carne coelho portimão` como exemplificação da busca vetorial e obter o seguinte resultado:
+Para o corpus [CRPC sub-corpus oral espontÉneo.zip](https://github.com/AlexandreNS/term-frequency-sri/blob/main/CRPC%20sub-corpus%20oral%20espont%C3%89neo.zip?raw=true) foi possível realizar a busca `restaurante de comida portuguesa em portimão` como exemplificação da busca vetorial e obter o seguinte resultado:
 
 ![Exemplo](https://github.com/AlexandreNS/vetorial-search-sri/blob/main/exemplo.png?raw=true)
 
